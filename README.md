@@ -14,7 +14,7 @@
 ---
 
 ## 🌟 Projects
-- **[Book Store](https://github.com/Samyuktha14/book-store)**: MERN stack online bookstore platform  
+- **[Book Store](https://github.com/Samyuktha14/book-store-mern)**: MERN stack online bookstore platform  
 - **[Job Tracker](https://github.com/Samyuktha14/job-tracker)**: React + Spring Boot job application tracker  
 - **[Diabetes Prediction System](https://github.com/Samyuktha14/diabetes-prediction-system)**: ML-based healthcare app using Python & Streamlit  
 
